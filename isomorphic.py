@@ -1,6 +1,5 @@
 try:
-	st1=str(raw_input())
-	st2=str(raw_input())
+	st1, st2 = raw_input().split()
 	a=[]
 	b=[]
 	d=[]
