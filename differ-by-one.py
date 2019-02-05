@@ -2,7 +2,7 @@ count=0
 j=0
 a, b = raw_input().split()
 if a==b:
-    print "NO"
+    print "no"
 else:
     for i in a:
         if i==b[j]:
@@ -13,6 +13,6 @@ else:
             if count>1:
                 break
     if count==1:
-        print "YES"
+        print "yes"
     else:
-        print "NO"
+        print "no"
