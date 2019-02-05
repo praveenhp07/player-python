@@ -1,2 +1,2 @@
-x=raw_input("Enter a string: ")
+x=raw_input()
 print x[::-1]
