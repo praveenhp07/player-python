@@ -1,2 +1,2 @@
-number=raw_input()
-print number[::-1]
+num=raw_input()
+print num[::-1]
